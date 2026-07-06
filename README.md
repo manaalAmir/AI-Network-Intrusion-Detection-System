@@ -50,9 +50,8 @@ AI-Network-Intrusion-Detection-System/
 │
 ├── Dataset/
 ├── AI_Semester_Project.ipynb
-├── README.md
-├── requirements.txt
-└── Results/
+├── Project_Report.pdf
+└── README.md
 ```
 
 ---
