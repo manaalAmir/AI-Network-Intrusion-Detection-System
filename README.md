@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 
-The **AI Network Intrusion Detection System ** is a Python-based machine learning project designed to detect and classify network traffic as either **normal** or **malicious**. The system leverages data preprocessing, feature engineering, supervised learning, unsupervised learning, and optimization techniques to accurately identify potential cyber threats and improve network security.
+The **AI Network Intrusion Detection System** is a Python-based machine learning project designed to detect and classify network traffic as either **normal** or **malicious**. The system leverages data preprocessing, feature engineering, supervised learning, unsupervised learning, and optimization techniques to accurately identify potential cyber threats and improve network security.
 
 Developed as part of an **Artificial Intelligence semester project**, this system demonstrates the practical application of machine learning algorithms, clustering, genetic algorithms, and performance evaluation techniques for intelligent intrusion detection.
 
